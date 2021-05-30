@@ -1,0 +1,5 @@
+if(EXISTS "/Users/mchuang/Desktop/BUSY/leetcode/ArrayList/cmake-build-debug/TestArrayList[1]_tests.cmake")
+  include("/Users/mchuang/Desktop/BUSY/leetcode/ArrayList/cmake-build-debug/TestArrayList[1]_tests.cmake")
+else()
+  add_test(TestArrayList_NOT_BUILT TestArrayList_NOT_BUILT)
+endif()

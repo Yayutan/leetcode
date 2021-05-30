@@ -1,0 +1,3 @@
+TestArrayList.BasicAssertions 2 0
+TestArrayList.Insertion 1 0.0108212
+---

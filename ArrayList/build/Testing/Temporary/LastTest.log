@@ -1,0 +1,30 @@
+Start testing: May 30 13:01 CST
+----------------------------------------------------------
+1/1 Testing: TestArrayList.Insertion
+1/1 Test: TestArrayList.Insertion
+Command: "/Users/mchuang/Desktop/BUSY/leetcode/ArrayList/build/TestArrayList" "--gtest_filter=TestArrayList.Insertion" "--gtest_also_run_disabled_tests"
+Directory: /Users/mchuang/Desktop/BUSY/leetcode/ArrayList/build
+"TestArrayList.Insertion" start time: May 30 13:01 CST
+Output:
+----------------------------------------------------------
+Running main() from /Users/mchuang/Desktop/BUSY/leetcode/ArrayList/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TestArrayList.Insertion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestArrayList
+[ RUN      ] TestArrayList.Insertion
+[       OK ] TestArrayList.Insertion (0 ms)
+[----------] 1 test from TestArrayList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TestArrayList.Insertion" end time: May 30 13:01 CST
+"TestArrayList.Insertion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 30 13:01 CST
